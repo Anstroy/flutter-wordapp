@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
       title: "Home",
       home: Scaffold(
         appBar: AppBar(
-          title: const Text("Home"),
+          title: const Text("Word Generator"),
         ),
         body: Center(
           child: RandomWords(),
