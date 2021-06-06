@@ -1,3 +1,5 @@
+[![CI](https://github.com/Anstroy/flutter-wordapp/actions/workflows/main.yml/badge.svg)](https://github.com/Anstroy/flutter-wordapp/actions/workflows/main.yml)
+
 # wordsapp
 
 A new Flutter project.
